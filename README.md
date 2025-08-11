@@ -76,7 +76,3 @@ Found items:
 ✅ Style-based item selection  
 ✅ Structured and reusable dictionary data  
 
----
-
-## 📜 License
-This project is free to use and modify.  
